@@ -14,15 +14,15 @@ I use a pre-trained VGG-16 Network as the feature extractor, which is used widel
 
 ## Results
 
-![output](materials\Jan_van_Eyck_33\output.png)
+![output](materials/Jan_van_Eyck_33/output.png)
 
-![output](materials\Vincent_van_Gogh_282\output.png)
+![output](materials/Vincent_van_Gogh_282/output.png)
 
-![output](materials\Claude_Monet_57\output.png)
+![output](materials/Claude_Monet_57/output.png)
 
-![output](materials\Paul_Cezanne_16\output.png)
+![output](materials\Paul_Cezanne_16/output.png)
 
-![output](materials\Vasiliy_Kandinskiy_24\output.png)
+![output](materials/Vasiliy_Kandinskiy_24/output.png)
 
 ## References
 
