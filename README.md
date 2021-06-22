@@ -20,7 +20,7 @@ I use a pre-trained VGG-16 Network as the feature extractor, which is used widel
 
 ![output](materials/Claude_Monet_57/output.png)
 
-![output](materials\Paul_Cezanne_16/output.png)
+![output](materials/Paul_Cezanne_16/output.png)
 
 ![output](materials/Vasiliy_Kandinskiy_24/output.png)
 
